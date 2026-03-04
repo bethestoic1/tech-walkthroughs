@@ -1,0 +1,14 @@
+---
+description: When user says "continue where you left off", read PROGRESS.md first and resume from Next up
+alwaysApply: true
+---
+
+# Continue where you left off
+
+When the user says **"continue where you left off"**, **"continue"**, **"pick up from PROGRESS"**, or similar:
+
+1. **Read `PROGRESS.md`** in the project root (this repo).
+2. Use **"Next up"** as the list of things to do next. Do the first item (or the one that makes sense).
+3. When you finish a meaningful chunk, **update PROGRESS.md**: move that task into "Last completed" and adjust "Next up" so the file stays accurate.
+
+If PROGRESS.md is missing or "Next up" is empty, use `ACTION_ITEMS.md` and `CONTENT_ROADMAP.md` to infer the next steps.
