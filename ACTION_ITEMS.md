@@ -16,32 +16,38 @@ Sign up for these **in order of impact** (recurring $ and content already live).
 | 4 | **1Password** | [1password.com/affiliate](https://1password.com/affiliate) (or via CJ if directed) | $2 per signup + 25% first year | Best VPN article (secondary CTA), future Password Manager article |
 | 5 | **Tabnine** | [tabnine.com/partners/apply](https://tabnine.com/partners/apply) | Apply; partner/affiliate terms from them | Best AI Coding article, AI Coding hub |
 | 6 | **GitHub Copilot** | Check [github.com/features/copilot](https://github.com/features/copilot/plans) or GitHub Partner Program / contact sales | Varies; no clear public affiliate program | Best AI Coding article (use referral link if/when you get one) |
+| 7 | **Replit** | [replit.com/refer](https://replit.com/refer) — get your referral link from account (paid plan to earn) | $10 credits you + referred user when they pay; tiers at 10/100 referrals | Best AI Coding article, AI Coding hub |
 
 **Notes:**
 
 - **HubSpot & Monday:** Get your tracking links and add them to the two CTAs in `marketing-crm/best-crm-small-business-2026/index.html`.
 - **NordVPN & 1Password:** Add links to the two CTAs in `cybersecurity/best-vpn-business-2026/index.html`.
 - **Tabnine:** Apply at the link above; once approved, add your link to `ai-coding/best-ai-coding-assistant-2026/index.html`. For **GitHub Copilot**, use an official referral/partner link if the program offers one; otherwise keep a “Try Copilot” CTA to the main Copilot signup page (no affiliate) until you have a link.
+- **Replit:** Get your referral link from [replit.com/refer](https://replit.com/refer) (account settings; paid plan required to earn credits). Replace the "Try Replit" CTA in `ai-coding/best-ai-coding-assistant-2026/index.html` with your referral URL.
 
 ---
 
-## 2. Replace placeholder links in the 3 articles
+## 2. Replace official URLs with your affiliate links (when ready)
 
-Each article has two CTAs with `href="#"`. Replace with your **affiliate or official URLs** (with your tracking ID if the program gives one).
+All article and hub CTAs use **official product URLs + ref placeholder** (`?ref=techwalkthroughs`) so links still work and you can track. When you have **affiliate or referral URLs**, replace the full `href` (or just the ref value) per program. Search for `ref=techwalkthroughs` to find all placeholder links.
 
-| File | Button 1 (primary) | Button 2 (secondary) |
-|------|--------------------|------------------------|
-| `marketing-crm/best-crm-small-business-2026/index.html` | Try HubSpot free → | Try Monday.com → |
-| `cybersecurity/best-vpn-business-2026/index.html` | Get NordVPN for Business → | Try 1Password Teams → |
-| `ai-coding/best-ai-coding-assistant-2026/index.html` | Try GitHub Copilot → | Try Tabnine → |
+| File | Button 1 (primary) | Button 2 (secondary) | Button 3 (if any) |
+|------|--------------------|------------------------|---------------------|
+| `marketing-crm/best-crm-small-business-2026/index.html` | Try HubSpot free → | Try Monday.com → | — |
+| `marketing-crm/hubspot-vs-monday-2026/index.html` | Try HubSpot free → | Try Monday.com → | — |
+| `cybersecurity/best-vpn-business-2026/index.html` | Get NordVPN for Business → | Try 1Password Teams → | — |
+| `cybersecurity/nordvpn-vs-expressvpn-2026/index.html` | Get NordVPN for Business → | Try ExpressVPN → | — |
+| `cybersecurity/best-password-manager-teams-2026/index.html` | Try 1Password Teams → | — | — |
+| `ai-coding/best-ai-coding-assistant-2026/index.html` | Try GitHub Copilot → | Try Tabnine → | Try Replit → (use your referral link) |
+| `ai-coding/github-copilot-vs-cursor-2026/index.html` | Try GitHub Copilot → | Try Cursor → | — |
 
 Keep `rel="nofollow"` on those links unless a program’s terms say otherwise.
 
 ---
 
-## 3. Optional: add affiliate links to hub pages
+## 3. Optional: replace hub CTAs with your affiliate links
 
-The category hubs (`marketing-crm/`, `cybersecurity/`, `ai-coding/`) currently link to the articles only. You can add one “Top pick” or “See deal” CTA per hub that goes to your affiliate link for the #1 tool (HubSpot, NordVPN, Copilot/Tabnine) to capture intent before they open the full review.
+The category hubs (`marketing-crm/`, `cybersecurity/`, `ai-coding/`) now have one top-pick CTA each (HubSpot, NordVPN, GitHub Copilot) using official URLs and `?ref=techwalkthroughs`. Replace those with your affiliate links when you have them to capture intent before visitors open the full review.
 
 ---
 
@@ -69,8 +75,8 @@ Details and more ideas are in `CONTENT_ROADMAP.md`.
 ## Quick checklist
 
 - [ ] Sign up: HubSpot, Monday, NordVPN, 1Password
-- [ ] Apply: Tabnine; check GitHub for Copilot referral/partner link
-- [ ] Replace all `href="#"` in the 3 flagship articles with your links
+- [ ] Apply: Tabnine; check GitHub for Copilot referral/partner link; get Replit referral link (replit.com/refer, paid plan to earn)
+- [ ] Replace official CTA URLs with your affiliate/referral links where applicable
 - [ ] Deploy and submit sitemap (Google, optionally Bing)
 - [ ] (Optional) Add one CTA per category hub to your top affiliate
 - [ ] Plan Phase 2 articles when you have capacity
