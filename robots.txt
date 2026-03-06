@@ -1,1 +1,4 @@
-https://techwalkthroughs.com/sitemap.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://techwalkthroughs.com/sitemap.xml
