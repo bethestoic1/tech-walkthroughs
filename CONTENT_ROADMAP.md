@@ -103,6 +103,8 @@ Use these formats in every review/comparison to maximize recurring commissions (
 3. **Best Password Manager for Teams 2026** — 1Password recurring; pairs with VPN; commercial intent.  
 4. **NordVPN vs ExpressVPN 2026** (or top competitor) — Classic vs query; NordVPN primary CTA.  
 
+**Implemented:** These four Phase 2 articles are done. Next: Phase 2 expansion (e.g. more "vs" or "Best for X" in existing pillars) or Phase 3 (new categories).
+
 **Then:**
 
 - HubSpot vs Salesforce (SMB)  
@@ -175,6 +177,8 @@ Use these formats in every review/comparison to maximize recurring commissions (
 - [ ] GitHub Copilot (referral / partner).  
 - [ ] Tabnine affiliate.  
 - [ ] Replit referral (replit.com/refer; get link from account; paid plan to earn credits).
+- [ ] ExpressVPN affiliate (expressvpn.com/affiliates; for NordVPN vs ExpressVPN secondary CTA).
+- [ ] Cursor referral (cursor.com/referral or email hi@cursor.com; for Copilot vs Cursor secondary CTA).
 
 **Networks for access to many SaaS programs:**  
 - [ ] PartnerStack (B2B SaaS; ClickUp, Notion, many others).  
@@ -186,4 +190,4 @@ Use these formats in every review/comparison to maximize recurring commissions (
 
 **Implementation:** Start with 3–5 comparison posts in existing categories (they rank well where you already have authority). Track performance with Google Analytics and affiliate dashboards; expand to new categories (Phase 3) based on what converts. Keep disclosure visible and value-first so commissions follow.
 
-**One concrete next step:** Finish Phase 2 (vs articles + Best Password Manager); then consider first Phase 3 category (Project Management or SEO) if you want to scale.
+**One concrete next step:** Sign up for affiliate programs (see ACTION_ITEMS.md), replace placeholder links, and deploy; then consider Phase 2 expansion or first Phase 3 category (Project Management or SEO) if you want to scale.
