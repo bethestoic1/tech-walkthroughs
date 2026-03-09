@@ -89,3 +89,37 @@ Details and more ideas are in `CONTENT_ROADMAP.md`.
 - [ ] Deploy and submit sitemap (Google, optionally Bing)
 - [ ] (Optional) Add one CTA per category hub to your top affiliate
 - [ ] Plan Phase 2 articles when you have capacity
+
+---
+
+## 6. Backlinks & outreach (do this now — #1 ranking accelerator)
+
+Without backlinks, new domains typically take 6–12 months to rank. Even 5–10 quality links in the first 30 days compresses that to ~3 months.
+
+### Quick wins (this week)
+
+- [ ] **Reddit — answer real questions, link to your article**
+  - `r/smallbusiness` — CRM questions (HubSpot, Monday, "what CRM should I use")
+  - `r/sysadmin` / `r/cybersecurity` — VPN and password manager threads
+  - `r/webdev` / `r/programming` — AI coding tool debates (Copilot vs Cursor etc.)
+  - Rule: write a genuinely helpful answer first, then cite your article — don't just drop a link
+- [ ] **Hacker News** — post a "Show HN" or link post (e.g. *"I spent 100 hours testing the best CRMs for small business in 2026"*). HN links carry real SEO weight.
+- [ ] **Quora** — search for CRM, VPN, AI coding questions; write solid answers and cite your articles. Nofollow but drives referral traffic that can lead to natural backlinks.
+
+### Medium effort (next 2–4 weeks)
+
+- [ ] **Product Hunt launch** — submit the site as a product. Frame it as a tool for making software decisions. A decent launch can get 20–50 upvotes and media pickup.
+- [ ] **Directory submissions**
+  - [AlternativeTo.net](https://alternativeto.net) — list tools you review; mention your site in comments
+  - [There's An AI For That](https://theresanaiforthat.com) — for the AI coding section
+  - [Indie Hackers](https://www.indiehackers.com) — create a project page and document your journey
+- [ ] **HARO / Qwoted / Featured.com** — sign up for journalist query services. When a reporter needs a quote on "best CRM for startups" or "VPN for remote teams," reply fast. One Forbes/TechCrunch mention = major domain boost.
+
+### Higher effort (ongoing)
+
+- [ ] **Reach out to the tools you review** — once you're an approved affiliate, ask HubSpot, Monday, NordVPN if they link to comparison articles from their resource/partner pages. Some do.
+- [ ] **Guest posts** — write one article for a SaaS or SMB blog (Zapier Blog, Buffer Blog, Indie Hackers) that references your comparisons. One guest post on a DA 60+ site > 50 directory submissions.
+
+### Avoid
+- Paid link schemes / link farms → Google penalty risk
+- Generic low-quality directory spam → zero SEO value
