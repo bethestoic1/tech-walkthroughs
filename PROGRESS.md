@@ -15,29 +15,23 @@
 
 - **SEO & Affiliate Audit (Steps 1–7):** All done (og tags, JSON-LD, affiliate links in tables/verdicts/mid-article CTAs, hub table links, password manager CTA fix).
 - **Curly quote fix:** Replaced smart quotes (`"` `"`) with straight quotes in 6 HTML files — was breaking all `href` attributes (404s on live site).
-- **Content expansion (C1) — 6 of 7 articles done:**
+- **Content expansion (C1) — all 7 articles done:**
   1. Best CRM for Small Business 2026 — expanded to 1,700+ words ✓
   2. Best VPN for Business 2026 — expanded to 1,600+ words ✓
   3. Best AI Coding Assistant 2026 — expanded to 2,200+ words ✓
   4. HubSpot vs Monday 2026 — expanded to 1,600+ words ✓
   5. NordVPN vs ExpressVPN 2026 — expanded to 1,500+ words ✓
   6. Best Password Manager for Teams 2026 — expanded to 1,800+ words ✓
+  7. GitHub Copilot vs Cursor 2026 — expanded to 1,700+ words ✓
 - Monday.com affiliate (`try.monday.com/06gugbafkxkx`) + Replit referral (`replit.com/refer/bethestoic1`) live.
-
----
-
-## In progress
-
-- **PR open:** `fix/curly-quotes-and-expand-password-manager` — curly quote fix + password manager expansion. Merge and delete branch, then do the needful.
 
 ---
 
 ## Next up
 
-1. **Content expansion:** GitHub Copilot vs Cursor 2026 — last article to expand (#7 of 7).
-2. **You (manual):** Continue affiliate program signups (see ACTION_ITEMS.md §1) — HubSpot pending, NordVPN, 1Password, ExpressVPN, Tabnine still needed.
-3. **Deploy:** Push to GitHub, add site to Google Search Console, submit sitemap.
-4. **Optional:** Phase 2 expansion or Phase 3 new categories — see CONTENT_ROADMAP.md.
+1. **You (manual):** Continue affiliate program signups (see ACTION_ITEMS.md §1) — HubSpot pending, NordVPN, 1Password, ExpressVPN, Tabnine still needed.
+2. **Deploy / Search Console:** Add site to Google Search Console, submit sitemap.xml.
+3. **Phase 2:** New comparison articles or hub pages — see CONTENT_ROADMAP.md for candidates.
 
 ---
 
