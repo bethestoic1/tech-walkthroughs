@@ -46,6 +46,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://techwalkthroughs.com/cybersecurity/best-vpn-remote-work-2026/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://techwalkthroughs.com/ai-coding/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
