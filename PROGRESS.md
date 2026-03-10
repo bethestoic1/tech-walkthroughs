@@ -31,6 +31,12 @@
   - Added BLACKBOX AI to `ai-coding/index.html` hub picks table.
   - Created new article: `marketing-crm/best-email-marketing-tools-2026/` — GetResponse (primary, 40–60% recurring), ActiveCampaign, Brevo.
   - Added email marketing article to `marketing-crm/index.html` guides list and `sitemap.xml`.
+- **Tier 1 traffic-growth articles (2026-03-10):**
+  - Created `cybersecurity/nordvpn-vs-surfshark-2026/` — NordVPN live affiliate link; Surfshark placeholder.
+  - Created `cybersecurity/1password-vs-bitwarden-2026/` — both placeholders (1Password CJ pending).
+  - Created `ai-coding/windsurf-vs-cursor-2026/` — both placeholders.
+  - Created `ai-coding/claude-code-vs-cursor-2026/` — both placeholders.
+  - Added all 4 to hub guides lists (`cybersecurity/index.html`, `ai-coding/index.html`) and `sitemap.xml`.
 
 ---
 

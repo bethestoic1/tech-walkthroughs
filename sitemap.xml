@@ -81,6 +81,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://techwalkthroughs.com/cybersecurity/nordvpn-vs-surfshark-2026/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://techwalkthroughs.com/cybersecurity/1password-vs-bitwarden-2026/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://techwalkthroughs.com/ai-coding/windsurf-vs-cursor-2026/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://techwalkthroughs.com/ai-coding/claude-code-vs-cursor-2026/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://techwalkthroughs.com/methodology/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
