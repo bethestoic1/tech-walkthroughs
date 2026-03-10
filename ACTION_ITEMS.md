@@ -35,6 +35,11 @@ Sign up for these **in order of impact** (recurring $ and content already live).
 - **ExpressVPN** — Declined — low reach (traffic/followers). Keep ExpressVPN CTAs as placeholder in NordVPN vs ExpressVPN and best VPN articles; reapply when traffic/reach grows.
 - **Netlify** — Applied via PartnerStack; application pending.
 - **Cursor** — No referral program. Cursor replied with Ambassadors link (community program, no affiliate links). Keep current CTA as-is unless they launch a referral program later.
+- **BLACKBOX AI** — Apply at PartnerStack. 30% recurring / 12 months. CTAs already added to `ai-coding/best-ai-coding-assistant-2026/index.html` (placeholder `?ref=techwalkthroughs`). Replace with affiliate link when approved.
+- **GetResponse** — Apply at PartnerStack. 40–60% recurring / 12 months. CTAs already added to `marketing-crm/best-email-marketing-tools-2026/index.html` (placeholder). Replace with affiliate link when approved.
+- **Reclaim.ai** — Apply at PartnerStack. 40% recurring / 12 months. No article yet; hold until link approved.
+- **Databox** — Apply at PartnerStack. 20% recurring / 12 months. No article yet; hold until link approved.
+- **OmniSEO** — Apply at PartnerStack. 50% recurring / 12 months. Phase 3 SEO category; apply now, content later.
 
 **Declined — reapply when:**
 

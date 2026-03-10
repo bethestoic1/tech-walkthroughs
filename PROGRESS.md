@@ -26,14 +26,21 @@
 - Monday.com affiliate (`try.monday.com/06gugbafkxkx`) + Replit referral (`replit.com/refer/bethestoic1`) live.
 - NordVPN affiliate approved; tracking links added site-wide.
 - Documented HubSpot and ExpressVPN affiliate declines and reapply criteria.
+- **PartnerStack expansion (2026-03-10):**
+  - Added BLACKBOX AI (30%/12mo) to `ai-coding/best-ai-coding-assistant-2026/` — full breakdown section, comparison table row, CTAs, verdict entry.
+  - Added BLACKBOX AI to `ai-coding/index.html` hub picks table.
+  - Created new article: `marketing-crm/best-email-marketing-tools-2026/` — GetResponse (primary, 40–60% recurring), ActiveCampaign, Brevo.
+  - Added email marketing article to `marketing-crm/index.html` guides list and `sitemap.xml`.
 
 ---
 
 ## Next up
 
-1. **You (manual):** Continue affiliate program signups (see ACTION_ITEMS.md §1) — 1Password, Tabnine still needed; HubSpot and ExpressVPN declined (reapply at 1k+ monthly visitors / when reach grows).
-2. **Deploy / Search Console:** Add site to Google Search Console, submit sitemap.xml.
-3. **Phase 2:** New comparison articles or hub pages — see CONTENT_ROADMAP.md for candidates.
+1. **You (manual) — PartnerStack applications:** Apply for BLACKBOX AI, GetResponse, Reclaim.ai, Databox, OmniSEO on partnerstack.com. Also apply for 1Password and Tabnine (direct).
+2. **You (manual) — Search Console:** Submit sitemap at https://techwalkthroughs.com/sitemap.xml to Google Search Console.
+3. **Replace placeholders with real links:** Once GetResponse and BLACKBOX AI affiliate links are approved, replace `?ref=techwalkthroughs` placeholders in the new email marketing article and AI coding article.
+4. **HubSpot and ExpressVPN:** Reapply at 1k+ monthly visitors (check Search Console first).
+5. **Phase 3 content:** Consider Reclaim.ai "Best AI Productivity Tools" article or OmniSEO/SEO tools category when PartnerStack Tier 1 approvals come through.
 
 ---
 
