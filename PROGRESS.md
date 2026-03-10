@@ -25,12 +25,13 @@
   7. GitHub Copilot vs Cursor 2026 — expanded to 1,700+ words ✓
 - Monday.com affiliate (`try.monday.com/06gugbafkxkx`) + Replit referral (`replit.com/refer/bethestoic1`) live.
 - NordVPN affiliate approved; tracking links added site-wide.
+- Documented HubSpot and ExpressVPN affiliate declines and reapply criteria.
 
 ---
 
 ## Next up
 
-1. **You (manual):** Continue affiliate program signups (see ACTION_ITEMS.md §1) — HubSpot pending, 1Password, ExpressVPN, Tabnine still needed.
+1. **You (manual):** Continue affiliate program signups (see ACTION_ITEMS.md §1) — 1Password, Tabnine still needed; HubSpot and ExpressVPN declined (reapply at 1k+ monthly visitors / when reach grows).
 2. **Deploy / Search Console:** Add site to Google Search Console, submit sitemap.xml.
 3. **Phase 2:** New comparison articles or hub pages — see CONTENT_ROADMAP.md for candidates.
 

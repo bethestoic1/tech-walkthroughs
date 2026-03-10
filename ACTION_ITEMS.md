@@ -29,11 +29,17 @@ Sign up for these **in order of impact** (recurring $ and content already live).
 
 **Status (applications in progress):**
 
-- **HubSpot** — Request submitted; awaiting approval (typically 2–3 business days). When approved, add Impact affiliate links to CRM CTAs.
+- **HubSpot** — Declined — minimum 1,000 monthly visitors required. Keep CRM CTAs as placeholder; reapply when site reaches ~1k+ monthly visitors (check Search Console).
 - **Monday.com** — Approved; referral link added. CTAs updated in `marketing-crm/best-crm-small-business-2026/index.html` and `marketing-crm/hubspot-vs-monday-2026/index.html` (try.monday.com/06gugbafkxkx).
 - **NordVPN (Nord Security)** — Approved; affiliate link live site-wide. See note below for links and PPC rules.
+- **ExpressVPN** — Declined — low reach (traffic/followers). Keep ExpressVPN CTAs as placeholder in NordVPN vs ExpressVPN and best VPN articles; reapply when traffic/reach grows.
 - **Netlify** — Applied via PartnerStack; application pending.
 - **Cursor** — No referral program. Cursor replied with Ambassadors link (community program, no affiliate links). Keep current CTA as-is unless they launch a referral program later.
+
+**Declined — reapply when:**
+
+- **HubSpot:** Site reaches ~1k+ monthly visitors (verify in Google Search Console).
+- **ExpressVPN:** Traffic and/or followers grow; then reapply via expressvpn.com/affiliates.
 
 **Nord Security (NordVPN) — links and rules:**
 
@@ -90,7 +96,7 @@ Details and more ideas are in `CONTENT_ROADMAP.md`.
 
 ## Quick checklist
 
-- [ ] Sign up: HubSpot (submitted — awaiting approval), Monday (done — link live), NordVPN (done — link live), 1Password, ExpressVPN (after NordVPN; for NordVPN vs ExpressVPN secondary CTA)
+- [ ] Sign up: Monday (done — link live), NordVPN (done — link live), 1Password, Tabnine; HubSpot and ExpressVPN declined — reapply at 1k+ visitors / when reach grows
 - [ ] Apply: Tabnine; check GitHub for Copilot referral/partner link; get Replit referral link (replit.com/refer, paid plan to earn); Cursor (no referral program — Ambassadors only; keep CTA as-is)
 - [ ] Replace official CTA URLs with your affiliate/referral links where applicable
 - [ ] Deploy and submit sitemap (Google, optionally Bing)
