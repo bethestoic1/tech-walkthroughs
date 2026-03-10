@@ -31,8 +31,15 @@ Sign up for these **in order of impact** (recurring $ and content already live).
 
 - **HubSpot** — Request submitted; awaiting approval (typically 2–3 business days). When approved, add Impact affiliate links to CRM CTAs.
 - **Monday.com** — Approved; referral link added. CTAs updated in `marketing-crm/best-crm-small-business-2026/index.html` and `marketing-crm/hubspot-vs-monday-2026/index.html` (try.monday.com/06gugbafkxkx).
+- **NordVPN (Nord Security)** — Approved; affiliate link live site-wide. See note below for links and PPC rules.
 - **Netlify** — Applied via PartnerStack; application pending.
 - **Cursor** — No referral program. Cursor replied with Ambassadors link (community program, no affiliate links). Keep current CTA as-is unless they launch a referral program later.
+
+**Nord Security (NordVPN) — links and rules:**
+
+- **NordVPN link (live):** `https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142839&url_id=902`
+- **NordPass link (for future use):** `https://go.nordpass.io/aff_c?offer_id=488&aff_id=142839&url_id=9356` — use when you add password-manager or NordPass-focused content.
+- **PPC:** No branded PPC (Google Ads, Bing Ads, etc.) on “NordVPN”, “NordPass”, “Nord”, or variations. Comply with promotion rules in the partner dashboard.
 
 ---
 
@@ -56,7 +63,7 @@ Keep `rel="nofollow"` on those links unless a program’s terms say otherwise.
 
 ## 3. Optional: replace hub CTAs with your affiliate links
 
-The category hubs (`marketing-crm/`, `cybersecurity/`, `ai-coding/`) now have one top-pick CTA each (HubSpot, NordVPN, GitHub Copilot) using official URLs and `?ref=techwalkthroughs`. Replace those with your affiliate links when you have them to capture intent before visitors open the full review.
+The category hubs (`marketing-crm/`, `cybersecurity/`, `ai-coding/`) now have one top-pick CTA each (HubSpot, NordVPN, GitHub Copilot). NordVPN hub CTA uses affiliate link; replace HubSpot and Copilot when you have those links.
 
 ---
 
@@ -83,7 +90,7 @@ Details and more ideas are in `CONTENT_ROADMAP.md`.
 
 ## Quick checklist
 
-- [ ] Sign up: HubSpot (submitted — awaiting approval), Monday (done — link live), NordVPN, 1Password, ExpressVPN (after NordVPN; for NordVPN vs ExpressVPN secondary CTA)
+- [ ] Sign up: HubSpot (submitted — awaiting approval), Monday (done — link live), NordVPN (done — link live), 1Password, ExpressVPN (after NordVPN; for NordVPN vs ExpressVPN secondary CTA)
 - [ ] Apply: Tabnine; check GitHub for Copilot referral/partner link; get Replit referral link (replit.com/refer, paid plan to earn); Cursor (no referral program — Ambassadors only; keep CTA as-is)
 - [ ] Replace official CTA URLs with your affiliate/referral links where applicable
 - [ ] Deploy and submit sitemap (Google, optionally Bing)
