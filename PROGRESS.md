@@ -37,16 +37,22 @@
   - Created `ai-coding/windsurf-vs-cursor-2026/` — both placeholders.
   - Created `ai-coding/claude-code-vs-cursor-2026/` — both placeholders.
   - Added all 4 to hub guides lists (`cybersecurity/index.html`, `ai-coding/index.html`) and `sitemap.xml`.
+- **Tier 2 traffic-growth articles (2026-03-10):**
+  - Created `marketing-crm/monday-vs-clickup-2026/` — Monday live affiliate link used.
+  - Created `marketing-crm/best-crm-real-estate-2026/` — Monday live link; HubSpot placeholder.
+  - Created `cybersecurity/best-password-manager-2026/` — NordPass live link; 1Password placeholder.
+  - Created `cybersecurity/lastpass-alternatives-2026/` — NordPass live link; 1Password placeholder.
+  - Added all 4 to hub guides lists (`marketing-crm/index.html`, `cybersecurity/index.html`) and `sitemap.xml`. Site now at 27 pages.
 
 ---
 
 ## Next up
 
-1. **You (manual) — PartnerStack applications:** Apply for BLACKBOX AI, GetResponse, Reclaim.ai, Databox, OmniSEO on partnerstack.com. Also apply for 1Password and Tabnine (direct).
-2. **You (manual) — Search Console:** Submit sitemap at https://techwalkthroughs.com/sitemap.xml to Google Search Console.
-3. **Replace placeholders with real links:** Once GetResponse and BLACKBOX AI affiliate links are approved, replace `?ref=techwalkthroughs` placeholders in the new email marketing article and AI coding article.
-4. **HubSpot and ExpressVPN:** Reapply at 1k+ monthly visitors (check Search Console first).
-5. **Phase 3 content:** Consider Reclaim.ai "Best AI Productivity Tools" article or OmniSEO/SEO tools category when PartnerStack Tier 1 approvals come through.
+1. **You (manual) — PartnerStack applications:** Apply for BLACKBOX AI, GetResponse, Reclaim.ai, Databox, OmniSEO on partnerstack.com. Also apply for 1Password (CJ, awaiting) and Tabnine (direct).
+2. **You (manual) — Search Console:** Submit updated sitemap to Google Search Console.
+3. **Replace placeholders with real links:** Once 1Password CJ approved, replace `?ref=techwalkthroughs` in 1password-vs-bitwarden, best-password-manager-2026, and lastpass-alternatives-2026.
+4. **HubSpot and ExpressVPN:** Reapply at 1k+ monthly visitors (check Search Console traffic first).
+5. **Phase 3 content:** Reclaim.ai productivity article, OmniSEO/SEO tools category when PartnerStack approvals come through.
 
 ---
 
