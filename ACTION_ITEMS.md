@@ -27,6 +27,13 @@ Sign up for these **in order of impact** (recurring $ and content already live).
 - **Replit:** Get your referral link from [replit.com/refer](https://replit.com/refer) (account settings; paid plan required to earn credits). Replace the "Try Replit" CTA in `ai-coding/best-ai-coding-assistant-2026/index.html` with your referral URL.
 - **Cursor:** No referral/affiliate program. Replied with [Ambassadors](https://cursor.com/ambassadors) (community/events, no referral links). Keep existing CTA (cursor.com + ref) in `ai-coding/github-copilot-vs-cursor-2026/index.html`; replace with referral link only if Cursor launches one later.
 
+**PartnerStack: applying under multiple sites**
+
+Official guidance from PartnerStack: *“For each site or business you want to apply under, you may need to create separate accounts or applications, depending on the requirements of the programs you are interested in.”* So either one account (with profile updated per focus) or separate accounts per site is allowed; program requirements decide.
+
+- **Option A — One account (simplest):** Use your existing PartnerStack account. In the partner dashboard go to your initial (top right) → **Network Profile**. Set business name to **Tech Walkthroughs** and website to **techwalkthroughs.com**, save. Then apply from the [PartnerStack Marketplace](https://market.partnerstack.com/) to: Netlify (if not already applied), BLACKBOX AI, GetResponse, Reclaim.ai, Databox, OmniSEO. Your existing Monday.com approval is unaffected; you can change the profile back to CodePipelines later if needed.
+- **Option B — Second account for TechWalkthroughs:** If a program expects a distinct site/business, create a new PartnerStack account (different email) at [dash.partnerstack.com/handshake](https://dash.partnerstack.com/handshake), apply to the Network with Tech Walkthroughs / techwalkthroughs.com, then apply to programs from that account. You’ll have two dashboards and two payout setups.
+
 **Status (applications in progress):**
 
 - **HubSpot** — Declined — minimum 1,000 monthly visitors required. Keep CRM CTAs as placeholder; reapply when site reaches ~1k+ monthly visitors (check Search Console).
