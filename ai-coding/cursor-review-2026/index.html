@@ -80,19 +80,19 @@
                 </div>
 
                 <h3>What is Cursor?</h3>
-                <p>Cursor is an AI-first code editor built as a fork of Visual Studio Code. It was designed from the ground up around AI workflows — rather than adding AI as a plugin (the Copilot approach), Cursor builds the IDE around AI interaction. The result is a tighter, more coherent experience where every keystroke, context reference, and agentic task feels natively integrated.</p>
+                <p>Cursor is an AI-first code editor built as a fork of Visual Studio Code. It was designed from the ground up around AI workflows  -  rather than adding AI as a plugin (the Copilot approach), Cursor builds the IDE around AI interaction. The result is a tighter, more coherent experience where every keystroke, context reference, and agentic task feels natively integrated.</p>
 
                 <h3>The key features</h3>
 
-                <h4>Composer Agent — the standout feature</h4>
-                <p>Composer in Agent mode is what separates Cursor from everything else in the market. You describe a task — "add a rate limiter to the API middleware, write tests, and update the README" — and Composer plans it, edits the relevant files, runs your test suite, reads the failure output, and self-corrects, all autonomously. We tested this on a real Express.js API refactor. Cursor completed a 3-file change with tests in 4 minutes that would have taken 20–30 minutes manually.</p>
+                <h4>Composer Agent  -  the standout feature</h4>
+                <p>Composer in Agent mode is what separates Cursor from everything else in the market. You describe a task  -  "add a rate limiter to the API middleware, write tests, and update the README"  -  and Composer plans it, edits the relevant files, runs your test suite, reads the failure output, and self-corrects, all autonomously. We tested this on a real Express.js API refactor. Cursor completed a 3-file change with tests in 4 minutes that would have taken 20–30 minutes manually.</p>
                 <p>This is not a polished demo feature. It works reliably, handles errors gracefully, and asks for clarification when genuinely uncertain. Other tools have agentic modes, but none of them feel as production-ready as Cursor's as of Q1 2026.</p>
 
-                <h4>Tab completion — genuinely different</h4>
-                <p>Cursor's Tab completion is multi-line and predictive in a way that feels qualitatively different from Copilot. It doesn't just complete the current line — it predicts your <em>next intended edit</em> based on what you've been doing. In practice this means it often has the right change ready before you've finished thinking. We measured a subjective ~25-30% reduction in keystrokes on boilerplate-heavy tasks compared to Copilot.</p>
+                <h4>Tab completion  -  genuinely different</h4>
+                <p>Cursor's Tab completion is multi-line and predictive in a way that feels qualitatively different from Copilot. It doesn't just complete the current line  -  it predicts your <em>next intended edit</em> based on what you've been doing. In practice this means it often has the right change ready before you've finished thinking. We measured a subjective ~25-30% reduction in keystrokes on boilerplate-heavy tasks compared to Copilot.</p>
 
                 <h4>Codebase indexing (<code>@codebase</code>)</h4>
-                <p>Ask Cursor "where does the app handle session expiry?" and it searches your entire indexed repo to give a precise, useful answer with file references. It's fast and accurate on repos up to ~200k lines in our testing. Larger repos get slower, but the feature remains useful. This is the correct way to build codebase Q&amp;A — as an indexed search, not a fragile LLM recall task.</p>
+                <p>Ask Cursor "where does the app handle session expiry?" and it searches your entire indexed repo to give a precise, useful answer with file references. It's fast and accurate on repos up to ~200k lines in our testing. Larger repos get slower, but the feature remains useful. This is the correct way to build codebase Q&amp;A  -  as an indexed search, not a fragile LLM recall task.</p>
 
                 <h4>Model flexibility</h4>
                 <p>Cursor Pro lets you switch between Claude 3.5 Sonnet, GPT-4o, and Cursor's own models per-request. In practice, we used Claude for large refactors (deeper reasoning) and Cursor's fast model for autocomplete. Having the right model for the right task is a real productivity multiplier that single-model tools can't match.</p>
@@ -100,7 +100,7 @@
                 <h3>The downsides</h3>
                 <ul>
                     <li><strong>VS Code fork lock-in:</strong> If your team uses JetBrains (IntelliJ, PyCharm, WebStorm), Cursor is simply not available. GitHub Copilot supports all major editors.</li>
-                    <li><strong>No affiliate program:</strong> Cursor only has an Ambassador programme with no monetary value — which means there are fewer incentivized reviews online, which ironically makes genuine reviews more valuable.</li>
+                    <li><strong>No affiliate program:</strong> Cursor only has an Ambassador programme with no monetary value  -  which means there are fewer incentivized reviews online, which ironically makes genuine reviews more valuable.</li>
                     <li><strong>Business tier pricing:</strong> At $40/user/month, Cursor Business is expensive for larger teams. GitHub Copilot Business covers equivalent enterprise needs at $19/user/month.</li>
                     <li><strong>Context window limits on Pro:</strong> Heavy Composer Agent sessions can exhaust the monthly "fast request" allocation, slowing you down to slower model mode near the end of the month. Power users who run agents all day may need to be strategic about usage.</li>
                 </ul>
@@ -131,7 +131,7 @@
                 <div class="verdict-box">
                     <h3>Final Verdict</h3>
                     <p>Cursor Pro at $20/month is worth it if you are a professional developer who spends meaningful time on complex, multi-file coding tasks. The Composer Agent alone will save you more than $20/month in time on the first week of use. If you mostly write simple feature code or do light editing, Windsurf's free tier or GitHub Copilot at $10/month are better value.</p>
-                    <p><strong>Rating: 4.6/5</strong> — Loses points only for VS Code lock-in, expensive Business tier, and the occasional fast-request allocation crunch near month-end.</p>
+                    <p><strong>Rating: 4.6/5</strong>  -  Loses points only for VS Code lock-in, expensive Business tier, and the occasional fast-request allocation crunch near month-end.</p>
                 </div>
             </div>
 
