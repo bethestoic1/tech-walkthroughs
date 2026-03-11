@@ -142,6 +142,51 @@ td strong { color: var(--color-primary); }
 .breadcrumb a { color: var(--color-accent); text-decoration: none; }
 .breadcrumb a:hover { text-decoration: underline; }
 .breadcrumb a:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+/* Oracle Pick Component */
+.oracle-pick {
+    background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%);
+    border: 2px solid var(--color-accent);
+    border-radius: var(--radius);
+    padding: var(--space-8);
+    margin: var(--space-8) 0;
+    box-shadow: 0 4px 12px rgba(0, 102, 255, 0.1);
+    position: relative;
+    overflow: hidden;
+}
+.oracle-pick::before {
+    content: "👑 Oracle Pick 2026";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: var(--color-accent);
+    color: var(--color-white);
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: var(--space-unit) var(--space-4);
+    border-bottom-left-radius: var(--radius);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.oracle-pick h3 {
+    color: var(--color-accent) !important;
+    margin-top: 0 !important;
+    margin-bottom: var(--space-4) !important;
+    font-size: var(--text-xl) !important;
+}
+.oracle-pick p {
+    margin-bottom: var(--space-6) !important;
+    font-size: var(--text-lg);
+    font-weight: 500;
+    color: var(--color-primary);
+}
+.oracle-pick ul {
+    margin-bottom: var(--space-6) !important;
+}
+.oracle-pick li {
+    margin-bottom: var(--space-unit) !important;
+    font-weight: 500;
+}
+
 /* Article layout */
 .article-body h2 { margin: var(--space-12) 0 var(--space-4); font-size: var(--text-xl); }
 .article-body h3 { margin: var(--space-8) 0 var(--space-4); font-size: var(--text-lg); }
