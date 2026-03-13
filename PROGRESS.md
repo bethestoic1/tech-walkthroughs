@@ -56,7 +56,14 @@
     2. `cybersecurity/lastpass-alternatives-2026/` — NordPass moved to #1 (oracle-pick), TOC, 3 banners, 3 CTAs.
     3. `cybersecurity/best-password-manager-teams-2026/` — NordPass promoted from "Others" to ranked #1 pick with full breakdown, TOC, 3 banners, 3 CTAs, added to comparison table and verdict.
     4. `cybersecurity/1password-vs-lastpass-2026/` — NordPass moved to first in alternatives list and verdict, TOC, 3 banners, 3 CTAs.
-  - **You (manual):** Replace placeholder banner images (`assets/banners/nordpass-banner-*.svg`) with real creatives from NordPass affiliate dashboard. Search HTML for `<!-- NORDPASS BANNER` to find all 12 placement slots.
+  - Banner asset renamed from `nordpass-banner.png` to `nordvpn-banner.png` (the creative is NordVPN-branded). All 12 password manager banner slots updated to reference `nordvpn-banner.png`.
+- **NordVPN/NordLayer VPN article vendor optimizations (2026-03-13):**
+  - Updated 3 VPN articles with TOC, 3 placeholder banners (`.promo-banner-fallback`), and 3 CTA blocks each:
+    1. `cybersecurity/best-vpn-business-2026/` — TOC with 10 sections, 3 NordVPN/NordLayer fallback banners, 3 CTA blocks.
+    2. `cybersecurity/best-vpn-remote-work-2026/` — TOC with 8 sections, 3 NordVPN/NordLayer fallback banners, 3 CTA blocks.
+    3. `cybersecurity/nordlayer-review-2026/` — TOC with 8 sections, 3 NordLayer fallback banners, 3 CTA blocks.
+  - All `<h3>` headings given `id` attributes for TOC anchor links.
+  - VPN article banners also use `nordvpn-banner.png` (real creative, no longer placeholders). All 21 banner slots (12 PM + 9 VPN) now use the same NordVPN banner image.
 
 ---
 
@@ -109,4 +116,4 @@ Search each file for `1password` or `ref=techwalkthroughs` in hrefs pointing to 
 
 ---
 
-*Last updated: 2026-03-13 (NordPass vendor optimizations). Update "Last completed" and "Next up" as you go.*
+*Last updated: 2026-03-13 (NordVPN/NordLayer VPN article vendor optimizations). Update "Last completed" and "Next up" as you go.*
