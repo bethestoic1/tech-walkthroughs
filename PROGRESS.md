@@ -42,17 +42,64 @@
   - Created `marketing-crm/best-crm-real-estate-2026/` — Monday live link; HubSpot placeholder.
   - Created `cybersecurity/best-password-manager-2026/` — NordPass live link; 1Password placeholder.
   - Created `cybersecurity/lastpass-alternatives-2026/` — NordPass live link; 1Password placeholder.
-  - Added all 4 to hub guides lists (`marketing-crm/index.html`, `cybersecurity/index.html`) and `sitemap.xml`. Site now at 27 pages.
+  - Added all 4 to hub guides lists (`marketing-crm/index.html`, `cybersecurity/index.html`) and `sitemap.xml`).
+- **Affiliate review plan (2026-03-11):**
+  - Added `about/` to `sitemap.xml` for crawl equity.
+  - Created `BACKLINKS_WEEK1.md` — actionable backlinks checklist with suggested Reddit, Quora, and HN copy.
+  - Updated PROGRESS "Next up" with backlinks first, sitemap submit (GSC + Bing URLs), and numbered priorities.
+  - Documented in PROGRESS: PartnerStack placeholder locations (BLACKBOX, GetResponse), 1Password replace pattern (3 articles), HubSpot/ExpressVPN reapply at 1k visitors.
+- **NordPass vendor optimizations (2026-03-13):**
+  - Added `.article-toc` and `.promo-banner` CSS components to `assets/styles.css`.
+  - Created 3 placeholder banner SVGs in `assets/banners/` (replace with real creatives from NordPass affiliate dashboard).
+  - Updated 4 password manager articles per vendor feedback (TOC, 3 banners, 3 CTAs, NordPass to first position):
+    1. `cybersecurity/best-password-manager-2026/` — NordPass moved to #1 (oracle-pick), TOC, 3 banners, 3 CTAs.
+    2. `cybersecurity/lastpass-alternatives-2026/` — NordPass moved to #1 (oracle-pick), TOC, 3 banners, 3 CTAs.
+    3. `cybersecurity/best-password-manager-teams-2026/` — NordPass promoted from "Others" to ranked #1 pick with full breakdown, TOC, 3 banners, 3 CTAs, added to comparison table and verdict.
+    4. `cybersecurity/1password-vs-lastpass-2026/` — NordPass moved to first in alternatives list and verdict, TOC, 3 banners, 3 CTAs.
+  - **You (manual):** Replace placeholder banner images (`assets/banners/nordpass-banner-*.svg`) with real creatives from NordPass affiliate dashboard. Search HTML for `<!-- NORDPASS BANNER` to find all 12 placement slots.
 
 ---
 
 ## Next up
 
-1. **You (manual) — PartnerStack applications:** Apply for BLACKBOX AI, GetResponse, Reclaim.ai, Databox, OmniSEO on partnerstack.com. Also apply for 1Password (CJ, awaiting) and Tabnine (direct).
-2. **You (manual) — Search Console:** Submit updated sitemap to Google Search Console.
-3. **Replace placeholders with real links:** Once 1Password CJ approved, replace `?ref=techwalkthroughs` in 1password-vs-bitwarden, best-password-manager-2026, and lastpass-alternatives-2026.
-4. **HubSpot and ExpressVPN:** Reapply at 1k+ monthly visitors (check Search Console traffic first).
-5. **Phase 3 content:** Reclaim.ai productivity article, OmniSEO/SEO tools category when PartnerStack approvals come through.
+1. **You (manual) — Backlinks (this week):** Use [BACKLINKS_WEEK1.md](BACKLINKS_WEEK1.md) — 2–3 Reddit/Quora answers + one Show HN or link post. No link stuffing; helpful first, one cite per answer.
+2. **You (manual) — Submit sitemap:**
+   - **Google Search Console:** Add property `https://techwalkthroughs.com/` if not done → Sitemaps → submit `https://techwalkthroughs.com/sitemap.xml` (or `/sitemap.xml` as path).
+   - **Bing Webmaster Tools (optional):** Add site → submit same sitemap URL.
+3. **You (manual) — PartnerStack applications:** Apply for BLACKBOX AI, GetResponse, Reclaim.ai, Databox, OmniSEO on partnerstack.com. See [ACTION_ITEMS.md](ACTION_ITEMS.md) and placeholder locations in this file (PartnerStack section below).
+4. **Replace placeholders with real links:** Once 1Password CJ approved, replace in the three password-manager articles (see 1Password section below). When BLACKBOX/GetResponse approved, replace in best-ai-coding-assistant and best-email-marketing-tools.
+5. **HubSpot and ExpressVPN:** Reapply at 1k+ monthly visitors (verify in Search Console). See reapply criteria in this file below.
+6. **Phase 3 content:** Reclaim.ai productivity article, OmniSEO/SEO tools category when PartnerStack approvals come through.
+
+---
+
+## PartnerStack — placeholder locations (replace when approved)
+
+| Program | Replace placeholders in | Search for |
+|---------|-------------------------|------------|
+| **BLACKBOX AI** | `ai-coding/best-ai-coding-assistant-2026/index.html` | BLACKBOX CTAs / `?ref=techwalkthroughs` or placeholder URL for BLACKBOX |
+| **GetResponse** | `marketing-crm/best-email-marketing-tools-2026/index.html` | GetResponse CTAs with `?ref=techwalkthroughs` |
+
+Apply at [PartnerStack Marketplace](https://market.partnerstack.com/) with Network Profile set to Tech Walkthroughs / techwalkthroughs.com (see ACTION_ITEMS.md Option A).
+
+---
+
+## 1Password — replace when CJ approved
+
+Replace 1Password placeholder links (official URL + `?ref=techwalkthroughs`) with your CJ affiliate link in:
+
+1. `cybersecurity/1password-vs-bitwarden-2026/index.html`
+2. `cybersecurity/best-password-manager-2026/index.html`
+3. `cybersecurity/lastpass-alternatives-2026/index.html`
+
+Search each file for `1password` or `ref=techwalkthroughs` in hrefs pointing to 1password.com; replace with the affiliate link from CJ. Keep `rel="nofollow"` unless the program says otherwise.
+
+---
+
+## HubSpot & ExpressVPN — reapply criteria
+
+- **HubSpot:** Reapply when Google Search Console shows **~1,000+ monthly visitors** (total site). Check Performance → Search results for last 28 days. Reapply at hubspot.com/partners/affiliates.
+- **ExpressVPN:** Reapply when traffic and/or social reach has grown. Reapply at expressvpn.com/affiliates.
 
 ---
 
@@ -62,4 +109,4 @@
 
 ---
 
-*Last updated: when PROGRESS.md was added. Update "Last completed" and "Next up" as you go.*
+*Last updated: 2026-03-13 (NordPass vendor optimizations). Update "Last completed" and "Next up" as you go.*
